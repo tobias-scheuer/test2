@@ -5,7 +5,7 @@ print("hello from github")
 print("written from my pc")
 # dann schriben
 
-print("wir testen das ganze nochmal")
+print("wir testen das ganze")
 
 
 print("zwei commits einmal pushen")
